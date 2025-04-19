@@ -30,6 +30,11 @@ A data visualization dashboard built with React, TypeScript, and Vite. It is des
 - Node.js (version 16 or higher)
 - npm or yarn
 - Google Maps API key (for map visualization)
+  - To obtain an API key, visit the [Google Cloud Console](https://console.cloud.google.com/).
+  - Create a new project or select an existing one.
+  - Navigate to "APIs & Services" > "Credentials" and create a new API key.
+  - Ensure that the **Maps JavaScript API** and **Geocoding API** are enabled for your key in the "APIs & Services" > "Library" section.
+  - It's recommended to restrict your API key to prevent unauthorized use (e.g., by HTTP referrers).
 
 ### Installation
 
