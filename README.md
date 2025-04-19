@@ -1,16 +1,16 @@
 # EnKoat Performance Dashboard
 
-A data visualization dashboard built with React, TypeScript, and Vite for analyzing roofing project metrics and performance data across different states.
+A data visualization dashboard built with React, TypeScript, and Vite. It is designed for analyzing roofing project metrics and performance data across different states, aiding in tracking and decision-making.
 
 ## Features
 
-- 📊 Interactive data visualizations using Chart.js
-- 🗺️ Geographic visualization with Google Maps integration
-- 📅 Date-based filtering of project data
-- 📍 State and roof type filtering capabilities
-- 📑 Export functionality (PDF and CSV formats)
-- 📊 Real-time summary metrics
-- 🎨 Responsive design for all screen sizes
+- Interactive data visualizations using Chart.js
+- Geographic visualization with Google Maps integration
+- Date-based filtering of project data
+- State and roof type filtering capabilities
+- Export functionality (PDF and CSV formats)
+- Real-time summary metrics
+- Responsive design for all screen sizes
 
 ## Tech Stack
 
